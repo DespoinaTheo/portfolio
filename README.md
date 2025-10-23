@@ -5,28 +5,28 @@ Welcome! This repository gathers my academic projects. Each project has its own 
 
 ### 1. 3D Modelling, Animation, Unity integration
 Technologies: Bledner, Unity, C#  
-Repo: 
+[Repo](https://github.com/DespoinaTheo/3d-modelling-animation-unity-integration.git)
 
 ### 2. VR Escape Room developed with XR Device Simulator
 Technologies: Unity, C#, Audacity  
-Repo:
+[Repo](https://github.com/DespoinaTheo/vr-escape-room.git)
 
 ### 3. Game Project with adaptive NPC behavior 
 Technologies: Unity, C#  
-Repo:
+[Repo](https://github.com/DespoinaTheo/game-with-adaptive-npc-behavior.git)
 
 ### 4. 2D Multiplayer Puzzle Game
 _Team Project shared publicly with the consent of my teamate._   
 Technologies: Python, Pygame, SQLite  
-Repo:
+[Repo](https://github.com/DespoinaTheo/2d-multiplayer-puzzle-game.git)
 
 ### 5. "Snakes & Ladders" game developed using OOP principles
 Technologies: Unity, C#, Visual Paradigm  
-Repo:
+[Repo](https://github.com/DespoinaTheo/snakes-and-ladders-game.git)
 
 ### 6. 3D "infinite" Platform Game
 Technologies: Unity, C#  
-Repo:
+Repo: coming soon
 
 
 ## About me 
