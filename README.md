@@ -26,7 +26,7 @@ Technologies: Unity, C#, Visual Paradigm
 
 ### 6. 3D "infinite" Platform Game
 Technologies: Unity, C#  
-Repo: coming soon
+[Repo](https://github.com/DespoinaTheo/3d-infinite-platform-game.git)
 
 
 ## About me 
