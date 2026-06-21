@@ -33,4 +33,5 @@ Technologies: Unity, C#
 - BA in Mathematics, _Faculty of Science, Auth_
 - MSc in Gaming and Multimedia App Development, _Department of Communication and Digital Media, UoWM_
 - Based in Thessaloniki,GR
+- Soon in Amsterdam, NL
 - **Contact:** [LinkedIn](www.linkedin.com/in/despoina-theodoratou99) | Email: despinatheodoratou1@gmail.com
