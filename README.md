@@ -30,7 +30,7 @@ Technologies: Unity, C#
 
 ### 7. Spatial Data Visualization: Assessing Financial Decision Accuracy in Immersive Environments
 MSc Thesis Project
-Technologies: Unity, C#, Python
+Technologies: Unity, C#, Python  
 [Repo](https://github.com/DespoinaTheo/3D-Data-Analytics-Tool)
 
 ## About me 
