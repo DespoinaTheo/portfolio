@@ -28,6 +28,10 @@ Technologies: Unity, C#, Visual Paradigm
 Technologies: Unity, C#  
 [Repo](https://github.com/DespoinaTheo/3d-infinite-platform-game.git)
 
+### 7. Spatial Data Visualization: Assessing Financial Decision Accuracy in Immersive Environments
+MSc Thesis Project
+Technologies: Unity, C#, Python
+[Repo](https://github.com/DespoinaTheo/3D-Data-Analytics-Tool)
 
 ## About me 
 - BA in Mathematics, _Faculty of Science, Auth_
